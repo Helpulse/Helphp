@@ -1,3 +1,3 @@
 <?php 
-	echo 'funciona porra';
+	echo json_encode('funciona porra');
 ?>
